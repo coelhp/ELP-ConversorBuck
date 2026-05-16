@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Projeto de Eletrônica de Potência</h1>
-  <p>Neste repositório, você encontrará todos os arquivos relacionados ao projeto de Eletrônica de Potência desenvolvido pelo nosso grupo.</p>
+  <p>Este repositório é composto de todos os arquivos relacionados ao projeto de Eletrônica de Potência desenvolvido pelo nosso grupo.</p>
 
   <h2>Descrição do Projeto</h2>
   <p>O objetivo deste projeto foi realizar a modelagem e o projeto de um conversor CC-CC Buck, bem como a implementação de um compensador PID para melhorar seu desempenho.</p>
